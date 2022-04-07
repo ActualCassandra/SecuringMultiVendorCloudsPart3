@@ -13,12 +13,12 @@ A PDF version of the presentation from the event will be made available after th
 ## On Demand Recording ##
 *TBC*
 
+### Prior events in this series
+#### Part 1 
+If you want to know more about securing multivendor clouds from a pure AAD perspective, please check out the [github repo for Part 1](https://github.com/LuciBlanchardMSFT/SecuringMultiVendorClouds). However, it is not a prerequisite for Part 3.
 
-### Part 1
-If you want to know more about securing multivendor clouds from a pure AAD perspective, please check out the [github repo for Part 1](https://github.com/LuciBlanchardMSFT/SecuringMultiVendorClouds). However, it is not a requirement for Part 3.
-
-### Part 2
-[Part 2](https://github.com/ActualCassandra/SecuringMultiVendorCloudsPart2) covered using Microsoft Defender for Cloud with AWS and GCP and is not a prequisite. 
+#### Part 2
+[Part 2](https://github.com/ActualCassandra/SecuringMultiVendorCloudsPart2) covered using Microsoft Defender for Cloud with AWS and GCP and is also not a prerequisite. 
 
 ## Badges and how to claim
 
