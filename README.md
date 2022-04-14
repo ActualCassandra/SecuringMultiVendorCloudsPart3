@@ -1,5 +1,5 @@
 
-# Securing Multivendor Clouds Part 3 - Microsoft Event for Partners
+# Securing Multivendor Clouds Part 3 - CloudKnox - Microsoft Event for Partners
 
 Welcome to the Securing Multivendor Clouds Part 3 repository. This event will be held in June 2022, but the specific date and time are still TBC.
 
@@ -39,7 +39,13 @@ To claim a badge, send an email to:
 Qualified submissions will receive a Badge via email.
 
 ## Agenda
-CloudKNox *TBC*
+Still being created, draft below and generall tbc.
+ -	Systemic challenges of managing permissions across multiple cloud services
+ -	Visibility into over-permissioned access in Azure, AWS, GCP, and VMware
+ -	How to use CloudKnox to auto remediate over-permissioned access 
+ -	Building a new lifecycle for Just-in-Time access provisioning 
+ - IAM Risk Reporting and Dashboarding 
+ - Monitoring anomalistic risks and threats 
 
 ## Following along in the demo / labs
 Access to an Azure tenant is required to follow along, as is access to a GCP and AWS Tenant. Not all of these will be free, although the costs should be minimal. 
