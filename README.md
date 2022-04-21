@@ -24,7 +24,7 @@ If you want to know more about securing multivendor clouds from a pure AAD persp
 
 ## Badges and how to claim
 
-**Cloud Skills Challenge not yet live, will be created in May 2022.**
+**There may not be one for this event as Microsoft Learn content is still be created. If it is, we will create a challenge.**
 
 Silver – Complete cloud skills challenge **and** be registered for the event.
 
@@ -63,8 +63,8 @@ These labs are not required, but they will show you to leverage Azure AD in a mu
  - [Part 2 Labs](https://github.com/ActualCassandra/SecuringMultiVendorCloudsPart2#following-along-in-the-demo--labs)
 
 ### Part 3 Labs
-*TBC*
+These labs need to be created to reflect the udpated experience, but we'll have some available near the event date when the product is in GA.
 
 
 ## Learning and Training Resources
-*TBC*
+ - [What is CloudKnox Permissions Management?](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/cloudknox-overview)
