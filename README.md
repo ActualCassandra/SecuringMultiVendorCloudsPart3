@@ -1,7 +1,9 @@
 
 # Securing Multivendor Clouds Part 3 - CloudKnox - Microsoft Event for Partners
 
-Welcome to the Securing Multivendor Clouds Part 3 repository. This event will be held in June 2022, but the specific date and time are still TBC.
+Welcome to the Securing Multivendor Clouds Part 3 repository. This event will be held on 23 June 2022 from 1300-1500 BST.
+
+The third event in our series will focus on CloudKnox, and we'll have a fourth event later in the summer of 2022 to cover additional CloudKnox topics that were not covered in this event.
 
 ## Registration Link
 https://aka.ms/securingmvc-regp3 (link will link back to this page until the reg page is available).
@@ -22,7 +24,7 @@ If you want to know more about securing multivendor clouds from a pure AAD persp
 
 ## Badges and how to claim
 
-**Cloud Skills Challenge not yet live, will be created later in April 2022.**
+**Cloud Skills Challenge not yet live, will be created in May 2022.**
 
 Silver – Complete cloud skills challenge **and** be registered for the event.
 
@@ -39,10 +41,12 @@ To claim a badge, send an email to:
 Qualified submissions will receive a Badge via email.
 
 ## Agenda
-Still being created, draft below and generall tbc.
+Still being created, draft below and generally tbc.
  -	Systemic challenges of managing permissions across multiple cloud services
  -	Visibility into over-permissioned access in Azure, AWS, GCP, and VMware
  -	How to use CloudKnox to auto remediate over-permissioned access 
+
+### Part 4 agenda
  -	Building a new lifecycle for Just-in-Time access provisioning 
  - IAM Risk Reporting and Dashboarding 
  - Monitoring anomalistic risks and threats 
