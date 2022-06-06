@@ -1,12 +1,12 @@
 
-# Securing Multivendor Clouds Part 3 - CloudKnox - Microsoft Event for Partners
+# Securing Multivendor Clouds Part 3 - Entra Permissions Management - Microsoft Event for Partners
 
 Welcome to the Securing Multivendor Clouds Part 3 repository. This event will be held on 23 June 2022 from 1300-1500 BST.
 
-The third event in our series will focus on CloudKnox, and we'll have a fourth event later in the summer of 2022 to cover additional CloudKnox topics that were not covered in this event.
+The third event in our series will focus on Entra Permissions Management, our CIEM (Cloud Infrastructure Entintlement Management) service, and we'll have a fourth event later in the summer of 2022 to cover additional topics that were not covered in this event. The product used to be known as CloudKnox.
 
 ## Registration Link
-https://aka.ms/securingmvc-regp3 (link will link back to this page until the reg page is available).
+https://aka.ms/securingmvc-regp3
 
 ## Event Presentation PDF
 A PDF version of the presentation from the event will be made available after the event.
@@ -67,4 +67,4 @@ These labs need to be created to reflect the udpated experience, but we'll have 
 
 
 ## Learning and Training Resources
- - [What is CloudKnox Permissions Management?](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/cloudknox-overview)
+ - [What is Entra Permissions Management?](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/cloudknox-overview)
