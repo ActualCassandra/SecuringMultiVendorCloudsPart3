@@ -13,7 +13,7 @@ A PDF version of the presentation from the event will be made available after th
 *TBC*
 
 ## On Demand Recording ##
-*TBC*
+All registrants should be emailed a link to the on-demand recording after the event has finished. It could take a few days, however.
 
 ### Prior events in this series
 #### Part 1 
