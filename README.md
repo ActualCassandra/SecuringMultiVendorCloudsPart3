@@ -68,3 +68,8 @@ These labs need to be created to reflect the udpated experience, but we'll have 
 
 ## Learning and Training Resources
  - [What is Entra Permissions Management?](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/cloudknox-overview)
+ - [Microsoft Security identity blog](https://aka.ms/identityblog)
+ - [Microsoft Entra PM documentation](https://aka.ms/EntraPMdocs)
+ - [Permissions Management product](page https://aka.ms/PermissionsManagement)
+ - [Entra PM assets & resources](https://cdx.transform.microsoft.com)
+ - [Product trials](https://aka.ms/securityfreetrial)
