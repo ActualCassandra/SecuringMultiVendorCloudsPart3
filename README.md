@@ -24,27 +24,16 @@ If you want to know more about securing multivendor clouds from a pure AAD persp
 
 ## Badges and how to claim
 
-**There may not be one for this event as Microsoft Learn content is still be created. If it is, we will create a challenge.**
-
-Silver – Complete cloud skills challenge **and** be registered for the event.
-
-Gold – Completed cloud Skills Challenge **+** registered for the event **+** pass the SC-300 exam.
-
-To claim a badge, send an email to:
-
- > Email: ProtectandDefend@microsoft.com
- > 
- > Subject: Securing Multivendor Clouds Badge Claim
- > 
- > Body: Provide proof of completing the skills challenge https://aka.ms/SecuringMVC3-CSC, along with proof that it’s you, and proof of SC-300 certification for gold(screenshot will suffice).
-
-Qualified submissions will receive a Badge via email.
+**There will notbe one for this event as Microsoft Learn content is still be created, sorry!**
 
 ## Agenda
-Still being created, draft below and generally tbc.
+ -	Introduction to Microsoft Entra and Entra Permissions Management
  -	Systemic challenges of managing permissions across multiple cloud services
+ -	Getting Started with Entra PM - Enabling and onboarding
  -	Visibility into over-permissioned access in Azure, AWS, GCP, and VMware
- -	How to use CloudKnox to auto remediate over-permissioned access 
+ -	How to use CloudKnox to remediate over-permissioned access
+ -	Q&A
+ -	Wrap-up
 
 ### Part 4 agenda
  -	Building a new lifecycle for Just-in-Time access provisioning 
