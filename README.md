@@ -9,8 +9,7 @@ The third event in our series will focus on Entra Permissions Management, our CI
 https://aka.ms/securingmvc-regp3
 
 ## Event Presentation PDF
-A PDF version of the presentation from the event will be made available after the event.
-*TBC*
+[A PDF version of the presentation](Securing_Multivendor_Clouds-Part_3-CIEM-Entra_Permissions_Management-June%202022.pdf)
 
 ## On Demand Recording ##
 All registrants should be emailed a link to the on-demand recording after the event has finished. It could take a few days, however.
